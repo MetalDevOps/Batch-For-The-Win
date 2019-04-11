@@ -1,10 +1,10 @@
 # Batch For The Win
 
-Ultimate Mux Subtitle
+Ultimate Muxing Subtitle
 
 ## Descrição
 
-Esse script junta arquivos de video e legenda, utilizando o arquivo .json gerado pelo mkvtoolnix é possivel renomear as faixas conforme for necessario
+Esse script junta arquivos de video e legenda, utilizando o arquivo .JSON gerado pelo mkvtoolnix é possivel renomear as faixas conforme for necessario
 
 ## Dependencias
 
