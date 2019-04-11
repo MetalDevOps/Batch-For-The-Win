@@ -1,0 +1,18 @@
+[
+  "--ui-language",
+  "en",
+  "--language",
+  "0:kor",
+  "--language",
+  "1:kor",
+  "--track-name",
+  "1:Dolby Digital Plus  ",
+  "--language",
+  "2:por",
+  "--track-name",
+  "2:Dolby Digital Plus  ",
+  "--language",
+  "0:por",
+  "--track-order",
+  "0:0,0:1,0:2,1:0"
+]
